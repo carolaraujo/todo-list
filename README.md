@@ -1,6 +1,6 @@
  # Projeto 2 da {reprograma} - Módulo 2, JavaScript II
 
- Foi desenvolvido em parceria com @
+ Foi desenvolvido em parceria com @carolaraujo 
 
  ### Requisitos
  ```
@@ -10,13 +10,13 @@
  ```
  
  ### Funcionalidades
-- [ ] Adicionar itens na lista
-- [ ] Marcar itens concluídos individualmente
-- [ ] Excluir itens individualmente
-- [ ] Validar campo de texto para não entrar itens vazios
-- [ ] Limpar campo de texto depois que insere o item na lista
+- [x] Adicionar itens na lista
+- [x] Marcar itens concluídos individualmente
+- [x] Excluir itens individualmente
+- [x] Validar campo de texto para não entrar itens vazios
+- [x] Limpar campo de texto depois que insere o item na lista
 
  #### BÔNUS
-- [ ] Marcar todos os itens como feito
-- [ ] Excluir todos os itens da lista
+- [x] Marcar todos os itens como feito
+- [x] Excluir todos os itens da lista
 - [ ] Reorganizar a ordem "arrastando" os cards utilizando drag and drop
